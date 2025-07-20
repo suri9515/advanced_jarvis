@@ -76,7 +76,7 @@ This project is created for educational purposes. Use responsibly and ensure you
 
 ## 🙋‍♂️ Author
 
-**Suri Puri**  
+**Allampati Venkata Surendra Reddy**  
 [GitHub Profile](https://github.com/suri9515)
 
 ---
